@@ -1,0 +1,17 @@
+jUaN      pÉrez\tGARCIA
+Juan Pérez Garcia
+ 
+   hola   MUNDO
+Hola Mundo
+ 
+MARIA \r\n JOSE
+Maria Jose
+ 
+   texto  con    varios      espacios   
+Texto Con Varios Espacios
+ 
+Ana
+Ana
+ 
+FALLARA a proposito
+Esto No Coincidira
