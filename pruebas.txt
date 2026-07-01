@@ -1,0 +1,40 @@
+jUaN     pÉrez\t\nGARCIA  
+Juan Pérez Garcia
+   ana    lopez  
+Ana Lopez
+MARIA\tGONZALEZ
+Maria Gonzalez
+pedro\n\nramirez
+Pedro Ramirez
+   luis\t\tdiaz   
+Luis Diaz
+CARLOS   MARTINEZ
+Carlos Martinez
+sofia   torres
+Sofia Torres
+  \tandres  vega\t 
+Andres Vega
+PATRICIA\r\nSOLIS
+Patricia Solis
+javier    ortiz
+Javier Ortiz
+  MONICA   reyes  
+Monica Reyes
+diego\tcastro
+Diego Castro
+  laura   jimenez 
+Laura Jimenez
+roberto    silva
+Roberto Silva
+  gabriela\nmorales 
+Gabriela Morales
+FERNANDO   ROJAS
+Fernando Rojas
+  claudia   vargas
+Claudia Vargas
+  ricardo\tflores  
+Ricardo Flores
+  elena   castillo  
+Elenaaa Castillo
+  hugo   medina  
+Hugo Medinaa
